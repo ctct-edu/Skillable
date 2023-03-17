@@ -8,7 +8,9 @@
 
 ## 実施内容
 
-本作業では、以下の内容を実施します。
+本作業では、以下のタスクの内いずれかを実施します。
+
+Skillableを**使用したことがある**方は**タスク1**を、**使用したことがない**方は**タスク2**を実施してください。
 
 - タスク1：Skillableアカウントの作成
 - タスク2：トレーニングキーの登録
@@ -23,5 +25,25 @@
 
 [^]: 既にSkillableアカウントをお持ちの方は作成不要です。ご自身のアカウントでログインし、タスク2へ進んでください。
 
+1. **[Skillable](https://alh.learnondemand.net/)**にアクセスして、「**トレーニングキーに登録する**」のボタンをクリックします。
 
+   ![](C:\Users\CTCT\Documents\GitHub\Skillable\media\toppage01.png)
+
+   
+
+2. 表示されたポップアップ内のテキストボックスに講師から提供されたトレーニングキーを入力し、「**Register**」のボタンをクリックします。
+
+   ![](C:\Users\CTCT\Documents\GitHub\Skillable\media\trainingkeyregister.png)
+
+   
+
+3. ユーザー情報を入力する画面が表示されます。必要事項を入力して、最後に「**保存**」ボタンをクリックします。
+
+   ![](C:\Users\CTCT\Documents\GitHub\Skillable\media\userprofile.png)
+
+   [^]: **主に使用するメールアドレス**がSkillableのログインに使用するユーザー名となります。そのため、ユーザー名については自動入力されます。
+
+   
+
+4. 
 
