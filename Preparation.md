@@ -25,7 +25,7 @@ Skillableを**使用したことがある**方は**タスク1**を、**使用し
 
 [^1]: 既にSkillableアカウントをお持ちの方は作成不要です。ご自身のアカウントでログインし、タスク2へ進んでください。
 
-1. ** [Skillable](https://alh.learnondemand.net/) ** にアクセスして、「**トレーニングキーに登録する**」のボタンをクリックします。
+1. **[Skillable](https://alh.learnondemand.net/)** にアクセスして、「**トレーニングキーに登録する**」のボタンをクリックします。
 
    ![](C:\Users\CTCT\Documents\GitHub\Skillable\media\toppage01.png)
 
