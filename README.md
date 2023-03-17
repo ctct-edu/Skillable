@@ -10,7 +10,7 @@
 
 ## 演習環境の使用開始
 
-講師の指示に従い、「**[Preparation](https://github.com/ctct-edu/skillable/Preparation)**」を参照して演習環境の準備を実施してください。
+講師の指示に従い、「**[Preparation](https://github.com/ctct-edu/Skillable/blob/main/Preparation.md)**」を参照して演習環境の準備を実施してください。
 
 
 
