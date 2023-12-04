@@ -12,6 +12,8 @@
 
 講師の指示に従い、「**[Preparation](https://github.com/ctct-edu/Skillable/blob/main/Preparation.md)**」を参照して演習環境の準備を実施してください。
 
+準備作業の後、「**[Startup Hands-on Lab](https://github.com/ctct-edu/Skillable/blob/main/StartupHandsonLab.md)**」を参照して演習用アカウントを取得してください。
+
 
 
 ## 演習環境の注意点
